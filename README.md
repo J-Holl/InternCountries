@@ -13,34 +13,24 @@ Installation
 
     bash
 
-git clone [repository_url]
-cd [project_folder]
+    git clone [repository_url]
+    cd [project_folder]
 
 Install dependencies:
 
-bash
+    bash
 
-npm install
+    npm install
 
 Run the application using Expo:
 
-bash
+    bash
 
     npx expo start
 
-    This will start the development server and provide you with options to open the app on a physical device using the Expo client or on an emulator.
+This will start the development server and provide you with options to open the app on a physical device using the Expo client or on an emulator.
+Use the Expo client on your device or an emulator to preview the app.
 
-    Use the Expo client on your device or an emulator to preview the app.
-
-Features
-
-    List Countries: Displays a list of countries retrieved from the REST Countries API.
-
-    Country Details: View detailed information about a specific country, including its flag, capital, region, population, etc.
-
-    Search: Utilize the search functionality to filter countries by name.
-
-    Favorites: Add and remove countries to/from your favorites list.
 
 Folder Structure
 
