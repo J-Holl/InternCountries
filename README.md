@@ -6,27 +6,24 @@ This project is a React Native application that interacts with the REST Countrie
 
 Prerequisites
 
-    Node.js, npm and Expo installed.
+Node.js, npm and Expo installed.
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
     bash
-
     git clone [repository_url]
     cd [project_folder]
 
 Install dependencies:
 
     bash
-
     npm install
 
 Run the application using Expo:
 
     bash
-
     npx expo start
 
 This will start the development server and provide you with options to open the app on a physical device using the Expo client or on an emulator.
