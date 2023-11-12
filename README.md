@@ -1,4 +1,5 @@
 Quick Start Documentation
+
 Description
 
 This project is a React Native application that interacts with the REST Countries API to display a list of countries. It includes features like country details, search functionality, and a favorites system.
